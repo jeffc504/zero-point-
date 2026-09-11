@@ -4,6 +4,14 @@ Original research concepts and source materials: **Jeff Clark**.
 
 This repository shares the sanitized zero-point / quantum-vacuum research material for people to study, challenge, develop, and test. It covers two proposed research directions: the VORTEX CORE ZERO-1 toroidal experimental platform and the graphene / Casimir measurement platform.
 
+## Support this research
+
+Donations to support Jeff Clark's independent research are welcome and entirely optional.
+
+**Cash App:** [$jeffc7811](https://cash.app/$jeffc7811)
+
+Thank you for supporting open research.
+
 ## Scientific status
 
 These are research proposals, not a demonstrated source of usable free energy. This release contains conceptual descriptions and proposed experimental methods. It does **not** contain measured net-energy results, runnable simulation code, raw experimental data, or complete fabrication drawings. References to simulations or earlier designs describe prior work; those files are not bundled here.
